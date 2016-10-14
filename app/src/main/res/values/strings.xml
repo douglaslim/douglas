@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="click_me">Don\'t Press</string>
+    <string name="message">Welcome to Android</string>
+</resources>
